@@ -264,7 +264,7 @@
 //   console.log("Hi!");
 // };
 
-
+ 
 //  Explanation:
 // Only the variable name greet is hoisted (as undefined),
 //  not the function itself.
